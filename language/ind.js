@@ -1,5 +1,5 @@
 exports.wait = () => {
-	return`*「 WAIT 」 SEDANG PROSES*`
+	return`*🧭「 WAIT 」 IN PROCESS*`
 }
 
 exports.succes = () => {
@@ -15,27 +15,27 @@ exports.lvloff = () => {
 }
 
 exports.lvlnul = () => {
-	return`*LEVELMU MASIH KOSONG*`
+	return`*YOUR LEVEL IS STILL EMPTY 😖*`
 }
 
 exports.lvlnoon = () => {
-	return`*LEVEL DI GRUB BELUM DI AKTIFKAN*`
+	return`*GRUB LEVEL IS NOT ACTIVATED YET 🙄*`
 }
 
 exports.noregis = () => {
-	return`*「 PENDAFTARAN 」*\n\n*Cara daftar ${prefix}daftar nama|umur* \n*contoh ${prefix}daftar shizuka|22*`
+	return`*「 REGISTRATION 」*\n\n*HOW TO REGISTER 🤔, TYPE ${prefix}daftar name|age* \n*EXAMPLE ${prefix}daftar Abhinav|22*`
 }
 
 exports.rediregis = () => {
-	return`*「 SUDAH TERDAFTAR 」*\n\n*Kamu sudah terdaftar di database bot*`
+	return`*「 ALREADY REGISTERED 」*\n\n*YOU ARE ALREADY REGISTERED 🤣*`
 }
 
 exports.stikga = () => {
-	return`*Yah gagal coba ulangi beberapa saat lagi*`
+	return`*WELL FAILED TRY TO REPEAT IN A MOMENT*`
 }
 
 exports.linkga = () => {
-	return`*Maaf link tidak valid*`
+	return`*SORRY, INVAILD LINK!! PLEASE ENTER A VAILD LINK 😖*`
 }
 
 exports.groupo = () => {
@@ -55,63 +55,63 @@ exports.admin = () => {
 }
 
 exports.badmin = () => {
-	return`*「BOT HARUS JADI ADMIN」*`
+	return`*「MAKE SURE THAT THE BOT IS AN ADMIN IN THIS GROUP」*`
 }
 
 exports.nsfwoff = () => {
-	return`*NSFW TIDAK AKTIF*`
+	return`*NSFW IS OFF*`
 }
 
 exports.bug = () => {
-	return`*Masalah telah di laporkan ke owner SHIZUKA, Laporan palsu atau main² tidak akan ditanggapi.*`
+	return`*PROBLEMS HAVE BEEN REPORTED TO THE OWNER OF WHITE WALKER, FALSE OR MESSY REPORTS WILL NOT BE RESPONDED TOO.*`
 }
 
 exports.wrongf = () => {
-	return`*Format salah/text kosong*`
+	return`*INCORRECT FORMAT/BLANK TEXT*`
 }
 
 exports.clears = () => {
-	return`*Clear all Success*`
+	return`*CLEAR ALL SUCCESS*`
 }
 
 exports.pc = () => {
-	return`*「 REGISTRASI 」*\n\nUntuk mengetahui apa kamu sudah terdaftar silahkah check message yang saya kirim \n\nNOTE:\n*Jika kamu belum mendapatkan pesan. berarti kamu belum menyimpan nomer bot*`
+	return`*「 REGISTRATION 」*\n\nTOFIND OUT IF YOU HAVE REGISTERED, PLEASE CHECK THE MESSAGE I SENT \n\nNOTE:\n*IF YOU HAVEN'T GOT THE MESSAGE. MEANS YOU HAVEN'T SAVED YOUR BOT NUMBER*`
 }
 
 exports.registered = (namaUser, umurUser, serialUser, time, sender) => {
-	return`*「 DATA NEGARA 」*\n\nkamu sudah terdaftar dengan data \n\n┏━⊱nama\n┗⊱${namaUser}\n┏━⊱nomer\n┗⊱wa.me/${sender.split("@")[0]}\n┏━⊱umur\n┗⊱${umurUser}\n┏━⊱waktu pendaftaran\n┗⊱${time}\n\n┏━❉ *NS* ❉━\n┣⊱${serialUser}\n┗⊱NOTE : jangan sampai lupa nomer ini karena ini penting!`
+	return`*「 COUNTRY DATA 」*\n\nYOU HAVE REGISTERED WITH THE DATA \n\n┏━⊱🅝🅐🅜🅔\n┗⊱${namaUser}\n┏━⊱🅝🅤🅜🅑🅔🅡\n┗⊱wa.me/${sender.split("@")[0]}\n┏━⊱🅐🅖🅔\n┗⊱${umurUser}\n┏━⊱🅡🅔🅖🅘🅢🅣🅡🅐🅣🅘🅞🅝  🅣🅘🅜🅔\n┗⊱${time}\n\n┏━❉ *NS* ❉━\n┣⊱${serialUser}\n┗⊱NOTE : DON'T FORGET THIS NUMBER BECAUSE IT'S IMPORTANT!`
 }
 
-exports.cmdnf = (prefix, command) => {
-	return`command *${prefix}${command}* tidak di temukan\coba tulis *${prefix}menu*`
+exports.cmdnf = (prefix, command, pushname) => {
+	return`HEY ${pushname} , *${prefix}${command}* THIS COMMAND IS NOT IN MY MENU PLEASE TYPE *${prefix}menu* FOR ALL COMMANDS`
 }
 
 exports.owneresce = (pushname) => {
-	return`*Maaf tapi ${pushname} bukan owner script*`
+	return`*SORRY BUT ${pushname} NOT THE OWNER SCRIPT*`
 }
 
 exports.reglevelaha = (command, pushname, getLevelingLevel, sender, aha) => {
-	return`*Maaf ${pushname} level mu belum mencukupi*\n\n*┏⊱level mu : ${getLevelingLevel(sender)}*\n*┣⊱jenis command : ${command}*\n*┗⊱syarat level : ${aha}*\n\n_NOTE : CHAT/SELALU ON UNTUK MENDAPATKAN XP_`
+	return`*SORRY ${pushname} , YOUR LEVEL IS NOT SUFFICIENT*\n\n*┏⊱YOUR LEVEL : ${getLevelingLevel(sender)}*\n*┣⊱TYPE OF COMMAND : ${command}*\n*┗⊱LEVEL REQUIREMENTS : ${aha}*\n\n_NOTE : CHAT / ALWAYS ON TO GET XP_`
 }
 
 exports.reglevelahb = (command, pushname, getLevelingLevel, sender, ahb) => {
-	return`*Maaf ${pushname} level mu belum mencukupi*\n\n*┏⊱level mu : ${getLevelingLevel(sender)}*\n*┣⊱jenis command : ${command}*\n*┗⊱syarat level : ${ahb}*\n\n_NOTE : CHAT/SELALU ON UNTUK MENDAPATKAN XP_`
+	return`*SORRY ${pushname} , YOUR LEVEL IS NOT SUFFICIENT*\n\n*┏⊱YOUR LEVEL : ${getLevelingLevel(sender)}*\n*┣⊱TYPE OF COMMAND : ${command}*\n*┗⊱LEVEL REQUIREMENTS : ${ahb}*\n\n_NOTE : CHAT / ALWAYS ON TO GET XP_`
 }
 
 exports.reglevelahc = (command, pushname, getLevelingLevel, sender, ahc) => {
-	return`*Maaf ${pushname} level mu belum mencukupi*\n\n*┏⊱level mu : ${getLevelingLevel(sender)}*\n*┣⊱jenis command : ${command}*\n*┗⊱syarat level : ${ahc}*\n\n_NOTE : CHAT/SELALU ON UNTUK MENDAPATKAN XP_`
+	return`*SORRY ${pushname} , YOUR LEVEL IS NOT SUFFICIENT*\n\n*┏⊱YOUR LEVEL : ${getLevelingLevel(sender)}*\n*┣⊱TYPE OF COMMAND : ${command}*\n*┗⊱LEVEL REQUIREMENTS : ${ahc}*\n\n_NOTE : CHAT / ALWAYS ON TO GET XP_`
 }
 
 exports.reglevelahd = (command, pushname, getLevelingLevel, sender, ahd) => {
-	return`*Maaf ${pushname} level mu belum mencukupi*\n\n*┏⊱level mu : ${getLevelingLevel(sender)}*\n*┣⊱jenis command : ${command}*\n*┗⊱syarat level : ${ahd}*\n\n_NOTE : CHAT/SELALU ON UNTUK MENDAPATKAN XP_`
+	return`*SORRY ${pushname} , YOUR LEVEL IS NOT SUFFICIENT*\n\n*┏⊱YOUR LEVEL : ${getLevelingLevel(sender)}*\n*┣⊱TYPE OF COMMAND : ${command}*\n*┗⊱LEVEL REQUIREMENTS : ${ahd}*\n\n_NOTE : CHAT / ALWAYS ON TO GET XP_`
 }
 
 exports.reglevelahe = (command, pushname, getLevelingLevel, sender, ahe) => {
-	return`*Maaf ${pushname} level mu belum mencukupi*\n\n*┏⊱level mu : ${getLevelingLevel(sender)}*\n*┣⊱jenis command : ${command}*\n*┗⊱syarat level : ${ahe}*\n\n_NOTE : CHAT/SELALU ON UNTUK MENDAPATKAN XP_`
+	return`*SORRY ${pushname} , YOUR LEVEL IS NOT SUFFICIENT*\n\n*┏⊱YOUR LEVEL : ${getLevelingLevel(sender)}*\n*┣⊱TYPE OF COMMAND : ${command}*\n*┗⊱LEVEL REQUIREMENTS : ${ahe}*\n\n_NOTE : CHAT / ALWAYS ON TO GET XP_`
 }
 
 exports.reglevelahf = (command, pushname, getLevelingLevel, sender, ahf) => {
-	return`*Maaf ${pushname} level mu belum mencukupi*\n\n*┏⊱level mu : ${getLevelingLevel(sender)}*\n*┣⊱jenis command : ${command}*\n*┗⊱syarat level : ${ahf}*\n\n_NOTE : CHAT/SELALU ON UNTUK MENDAPATKAN XP_`
+	return`*SORRY ${pushname} , YOUR LEVEL IS NOT SUFFICIENT*\n\n*┏⊱YOUR LEVEL : ${getLevelingLevel(sender)}*\n*┣⊱TYPE OF COMMAND : ${command}*\n*┗⊱LEVEL REQUIREMENTS : ${ahf}*\n\n_NOTE : CHAT / ALWAYS ON TO GET XP_`
 }
 
 //anjing INFO DEVELOPER jangan di ganti bangsat!!
@@ -122,25 +122,20 @@ exports.reglevelahf = (command, pushname, getLevelingLevel, sender, ahf) => {
 //You only get your name fuck !!
 //If INFO DEVELOPER not in change, its okey!!
 exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp, _registered, uangku, role) => { 
-	return `「 *SHIZUKA BOT* 」
+	return `「 *WHITE WALKER* 」
 ◪ *INFO DEVELOPER*
-  ❏ Nama: ItsmeikyXSec404
-  ❏ Wa: wa.me/6281281872699
-  ❏ Ig: https://instagram.com/itsmeikyxsec404
+  ❏ NAME:   ̽̽ɪͥᴛͭ'sᷤ ᴍͫᴇͤ ᴅͭᴇͦᴠͯɪͥʟͨ
+  ❏ WHATSAPP: wa.me/19163126173
   ----------------------------------
-◪ *INFO SHIZUKA*
-  ❏ Nama: SHIZUKA 
-  ❏ Web: https://shizukaa.xyz/
-  ❏ Web Api: https://shizukaa.xyz/
-  ----------------------------------
+
 ◪ *YOUR INFO*
-  ❏ Prefix: 「  ${prefix}  」
-  ❏ Nama: ${pushname}
-  ❏ Uang mu : Rp${uangku}
-  ❏ Nomer: ${sender.split("@")[0]}
-  ❏ XP: ${getLevelingXp(sender)}/${reqXp}
-  ❏ Level: ${getLevelingLevel(sender)}
-  ❏ User register : ${_registered.length}
+  ❏ Prefix: 「  *${prefix}*  」
+  ❏ Name: *${pushname}*
+  ❏ Your Money: *Rs${uangku}*
+  ❏ Number: *${sender.split("@")[0]}*
+  ❏ XP: *${getLevelingXp(sender)}/${reqXp}*
+  ❏ Level: *${getLevelingLevel(sender)}*
+  ❏ User register : *${_registered.length}*
   
 ◪ *ABOUT*
   │
@@ -446,7 +441,7 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
   ├─ ❏ ${prefix}qrcode
   └─ ❏ ${prefix}afk
   
-◪ *POWERED BY ITSMEIKYXSEC404*
+◪ *POWERED BY WHITE WALKER*
 `
 }
 
