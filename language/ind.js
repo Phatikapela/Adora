@@ -124,7 +124,7 @@ exports.reglevelahf = (command, pushname, getLevelingLevel, sender, ahf) => {
 exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp, _registered, uangku, role) => { 
 	return `「 *WHITE WALKER* 」
 ◪ *INFO DEVELOPER*
-  ❏ NAME:   ̽̽ɪͥᴛͭ'sᷤ ᴍͫᴇͤ ᴅͭᴇͦᴠͯɪͥʟͨ
+  ❏ NAME:   ɪͥᴛͭ'sᷤ ᴍͫᴇͤ ᴅͭᴇͦᴠͯɪͥʟͨ
   ❏ WHATSAPP: wa.me/19163126173
   ----------------------------------
 
@@ -198,17 +198,17 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ◪ *OTHER FITUR*
   │
   ├─ ❏ ${prefix}ssweb
-  ├─ ❏ ${prefix}hilih [teks]
-  ├─ ❏ ${prefix}alay [teks]
-  ├─ ❏ ${prefix}say [teks]
-  ├─ ❏ ${prefix}wiki [teks]
-  ├─ ❏ ${prefix}kbbi [teks]
-  ├─ ❏ ${prefix}map [teks]
+  ├─ ❏ ${prefix}hilih
+  ├─ ❏ ${prefix}alay
+  ├─ ❏ ${prefix}say
+  ├─ ❏ ${prefix}wiki
+  ├─ ❏ ${prefix}kbbi
+  ├─ ❏ ${prefix}map
   ├─ ❏ ${prefix}kalkulator
-  ├─ ❏ ${prefix}lirik [teks]
-  ├─ ❏ ${prefix}brainly [teks]
+  ├─ ❏ ${prefix}lirik
+  ├─ ❏ ${prefix}brainly
   ├─ ❏ ${prefix}bitly
-  ├─ ❏ ${prefix}chord [teks]
+  ├─ ❏ ${prefix}chord
   ├─ ❏ ${prefix}katabijak 
   ├─ ❏ ${prefix}faktaunik 
   ├─ ❏ ${prefix}faktaunikl
@@ -230,9 +230,9 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
   ├─ ❏ ${prefix}infofilm
   ├─ ❏ ${prefix}igvideo
   ├─ ❏ ${prefix}pantun
-  └─ ❏ ${prefix}artinama [teks]
+  └─ ❏ ${prefix}artinama
   
-◪ *KERANG AJAIB*
+◪ *MAGIC SHELL*
   │
   ├─ ❏ ${prefix}gantengcek
   ├─ ❏ ${prefix}cantikcek
@@ -250,14 +250,14 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ◪ *DOWNLOADER*
   │
   ├─ ❏ ${prefix}1cak
-  ├─ ❏ ${prefix}pinterest [teks]
-  ├─ ❏ ${prefix}ytmp3 [link]
-  ├─ ❏ ${prefix}ytmp4 [link]
-  ├─ ❏ ${prefix}play [teks]
+  ├─ ❏ ${prefix}pinterest
+  ├─ ❏ ${prefix}ytmp3
+  ├─ ❏ ${prefix}ytmp4
+  ├─ ❏ ${prefix}play
   ├─ ❏ ${prefix}fototiktok
-  ├─ ❏ ${prefix}igpost [teks]
+  ├─ ❏ ${prefix}igpost
   ├─ ❏ ${prefix}igtv
-  └─ ❏ ${prefix}joox [teks]
+  └─ ❏ ${prefix}joox
   
 ◪ *FIND TARGET*
   │
@@ -317,7 +317,7 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
   └─ ❏ ${prefix}quotesmotivasi
   
 
-◪ *LIMIT & UANG & LB*
+◪ *LIMIT & MONEY & LB*
   │
   ├─ ❏ ${prefix}limit
   ├─ ❏ ${prefix}buylimit
@@ -339,7 +339,7 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
   ├─ ❏ ${prefix}mining
   ├─ ❏ ${prefix}hidetag
   ├─ ❏ ${prefix}grouplist
-  ├─ ❏ ${prefix}add [62]
+  ├─ ❏ ${prefix}add
   ├─ ❏ ${prefix}kick [@tag]
   ├─ ❏ ${prefix}setname
   ├─ ❏ ${prefix}setdesc
@@ -349,7 +349,7 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
   ├─ ❏ ${prefix}leave
   ├─ ❏ ${prefix}mining
   ├─ ❏ ${prefix}level
-  ├─ ❏ ${prefix}grup [buka/tutup)
+  ├─ ❏ ${prefix}grup [close/open)
   ├─ ❏ ${prefix}welcome [1/0]
   ├─ ❏ ${prefix}nsfw [1/0]
   ├─ ❏ ${prefix}antilink [1/0]
@@ -365,11 +365,7 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
   ├─ ❏ ${prefix}soundbakahentai [only computer]
   ├─ ❏ ${prefix}sayonichan [only computer]
   └─ ❏ ${prefix}gtts
-  
-◪ *ISLAM*
-  │
-  └─ ❏ ${prefix}quran
-  
+
 ◪ *STALK*
   │
   ├─ ❏ ${prefix}tiktokstalk
@@ -381,9 +377,9 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
   └─ ❏ ${prefix}wait
   
 ◪ *APK*
-  ├─ ❏ ${prefix}apkpure [teks]
-  ├─ ❏ ${prefix}happymod [teks]
-  ├─ ❏ ${prefix}moddroid [teks]
+  ├─ ❏ ${prefix}apkpure
+  ├─ ❏ ${prefix}happymod
+  ├─ ❏ ${prefix}moddroid
   
 ◪ *18+ Nsfw*
   |
@@ -448,30 +444,30 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 exports.levelup = (pushname, sender, getLevelingXp,  getLevel, getLevelingLevel, role) => {
 	return`
 *「 SELAMAT 」*
-  ❏ Nama : ${pushname}
-  ❏ Nomer : ${sender.split("@")[0]}
+  ❏ Name : ${pushname}
+  ❏ Number : ${sender.split("@")[0]}
   ❏ Xp : ${getLevelingXp(sender)}
   ❏ Limit :  +3
-  ❏ Pangkat :  ${role}
+  ❏ Rank :  ${role}
   ❏ Level : ${getLevel} ⊱ ${getLevelingLevel(sender)}
 `}
  
 exports.limitend = (pushname) => {
-	return`*Maaf ${pushname} limit hari ini habis*\n*Hubungi kami* : wa.me/62895330379186\n\n*Note : Kami akan berikan random dari 1-10*`
+	return`*SORRY ${pushname} TODAY'S LIMIT IS UP 🤫*`
 }
 
 exports.limitcount = (limitCounts) => {
 	return`
 *「 LIMIT COUNT 」*
-sisa limit anda : ${limitCounts}
+THE REST OF YOUR LIMITS : ${limitCounts}
 
-NOTE : Untuk mendapatkan limit. Bisa lewat naik level melalui group atau buylimit.
+NOTE : TO GET LIMITS, YOU CAN LEVEL UP THROUGH GROUPS OR BUYLIMIT.
 `}
 
 exports.satukos = () => {
-	return`*Tambah parameter 1/enable atau 0/disable`
+	return`*Add parameter 1/enable or 0/disable`
 }
 
 exports.uangkau = (pushname, sender, uangkau) => {
-	return`◪ *「 ATM 」*\n  ├─ ❏ *Name* : ${pushname}\n  ├─ ❏ *Nomor* : ${sender.split("@")[0]}\n  └─ ❏ *Uang* : ${uangkau}
+	return`◪ *「 ATM 」*\n  ├─ ❏ *Name* : ${pushname}\n  ├─ ❏ *Number* : ${sender.split("@")[0]}\n  └─ ❏ *Money* : ${uangkau}
 `}
