@@ -3376,7 +3376,7 @@ itsmeiky.on('group-participants-update', async (anu) => {
 				if (isBanned) return reply('Maaf kamu sudah terbenned!')
 					const reqXp  = 5000 * (Math.pow(2, getLevelingLevel(sender)) - 1)
 					const uangku = checkATMuser(sender)
-                    wew = fs.readFileSync(`./src/logo.jpg`)
+                    wew = fs.readFileSync(`./src/Logo.jpg`)
                     shiz = ` ◪ *INFO DEVELOPER*
   ❏ Nama: ItsmeikyXSec404
   ❏ Wa: wa.me/6281281872699
