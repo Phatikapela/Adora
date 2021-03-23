@@ -211,40 +211,40 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
   ├» ‣ ${prefix}chord
   ├» ‣ ${prefix}katabijak 
   ├» ‣ ${prefix}faktaunik 
-  ├─ ‣ ${prefix}faktaunikl
-  ├─ ‣ ${prefix}holoh
-  ├─ ‣ ${prefix}halah
-  ├─ ‣ ${prefix}huluh
-  ├─ ‣ ${prefix}heleh
-  ├─ ‣ ${prefix}hurufterbalik
-  ├─ ‣ ${prefix}lirik
-  ├─ ‣ ${prefix}alay2
-  ├─ ‣ ${prefix}fml
-  ├─ ‣ ${prefix}katadilan
-  ├─ ‣ ${prefix}katabucin
-  ├─ ‣ ${prefix}katabucin2
-  ├─ ‣ ${prefix}cerpen
-  ├─ ‣ ${prefix}quotes
-  ├─ ‣ ${prefix}bacotanhacker
-  ├─ ‣ ${prefix}quotedoraemon
-  ├─ ‣ ${prefix}infofilm
-  ├─ ‣ ${prefix}igvideo
-  ├─ ‣ ${prefix}pantun
+  ├» ‣ ${prefix}faktaunikl
+  ├» ‣ ${prefix}holoh
+  ├» ‣ ${prefix}halah
+  ├» ‣ ${prefix}huluh
+  ├» ‣ ${prefix}heleh
+  ├» ‣ ${prefix}hurufterbalik
+  ├» ‣ ${prefix}lirik
+  ├» ‣ ${prefix}alay2
+  ├» ‣ ${prefix}fml
+  ├» ‣ ${prefix}katadilan
+  ├» ‣ ${prefix}katabucin
+  ├» ‣ ${prefix}katabucin2
+  ├» ‣ ${prefix}cerpen
+  ├» ‣ ${prefix}quotes
+  ├» ‣ ${prefix}bacotanhacker
+  ├» ‣ ${prefix}quotedoraemon
+  ├» ‣ ${prefix}infofilm
+  ├» ‣ ${prefix}igvideo
+  ├» ‣ ${prefix}pantun
   └─ ‣ ${prefix}artinama
   
 ➥ *【 MAGIC SHELL 】*
   │
-  ├─ ‣ ${prefix}gantengcek
-  ├─ ‣ ${prefix}cantikcek
-  ├─ ‣ ${prefix}sangecek
-  ├─ ‣ ${prefix}gaycek
-  ├─ ‣ ${prefix}lesbicek
-  ├─ ‣ ${prefix}watak
-  ├─ ‣ ${prefix}hobby
-  ├─ ‣ ${prefix}apakah
-  ├─ ‣ ${prefix}kapankah
-  ├─ ‣ ${prefix}bisakah
-  ├─ ‣ ${prefix}bagaimanakah
+  ├» ‣ ${prefix}gantengcek
+  ├» ‣ ${prefix}cantikcek
+  ├» ‣ ${prefix}sangecek
+  ├» ‣ ${prefix}gaycek
+  ├» ‣ ${prefix}lesbicek
+  ├» ‣ ${prefix}watak
+  ├» ‣ ${prefix}hobby
+  ├» ‣ ${prefix}apakah
+  ├» ‣ ${prefix}kapankah
+  ├» ‣ ${prefix}bisakah
+  ├» ‣ ${prefix}bagaimanakah
   └─ ‣ ${prefix}rate
   
 ➥ *【 DOWNLOADER 】*
@@ -443,7 +443,7 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 
 exports.levelup = (pushname, sender, getLevelingXp,  getLevel, getLevelingLevel, role) => {
 	return`
-*「 SELAMAT 」*
+*「 HAPPY 」*
   ➤‣ Name : ${pushname}
   ➤‣ Number : ${sender.split("@")[0]}
   ➤‣ Xp : ${getLevelingXp(sender)}
