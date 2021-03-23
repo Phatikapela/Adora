@@ -139,98 +139,98 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
   
 ◪ *ABOUT*
   │
-  ├─ ❏ ${prefix}info
-  ├─ ❏ ${prefix}snk
-  ├─ ❏ ${prefix}lpr 
-  ├─ ❏ ${prefix}request
-  ├─ ❏ ${prefix}blocklist
-  ├─ ❏ ${prefix}ping
-  ├─ ❏ ${prefix}buypremium
-  ├─ ❏ ${prefix}hargaprem
-  ├─ ❏ ${prefix}menupict
-  └─ ❏ ${prefix}menuowner
+  ├─ ‣ ${prefix}info
+  ├─ ‣ ${prefix}snk
+  ├─ ‣ ${prefix}lpr 
+  ├─ ‣ ${prefix}request
+  ├─ ‣ ${prefix}blocklist
+  ├─ ‣ ${prefix}ping
+  ├─ ‣ ${prefix}buypremium
+  ├─ ‣ ${prefix}hargaprem
+  ├─ ‣ ${prefix}menupict
+  └─ ‣ ${prefix}menuowner
   
 ◪ *NEW FEATURE*
   │
-  ├─ ❏ ${prefix}nsfwloli
-  ├─ ❏ ${prefix}asupan
-  ├─ ❏ ${prefix}wiki
-  ├─ ❏ ${prefix}spamcall
-  ├─ ❏ ${prefix}tebakgambar
-  ├─ ❏ ${prefix}babi
-  ├─ ❏ ${prefix}caklontong
-  ├─ ❏ ${prefix}katailham
-  ├─ ❏ ${prefix}katabijak
-  ├─ ❏ ${prefix}fakta
-  ├─ ❏ ${prefix}mimpi
-  ├─ ❏ ${prefix}husbu
-  ├─ ❏ ${prefix}imagemountain
-  ├─ ❏ ${prefix}loli
-  ├─ ❏ ${prefix}imagegame
-  ├─ ❏ ${prefix}imagecyberspace
-  ├─ ❏ ${prefix}imageislamic
-  ├─ ❏ ${prefix}blackpink
-  ├─ ❏ ${prefix}randomexo
-  ├─ ❏ ${prefix}randombts
-  └─ ❏ ${prefix}menuownerwaifu
+  ├─ ‣ ${prefix}nsfwloli
+  ├─ ‣ ${prefix}asupan
+  ├─ ‣ ${prefix}wiki
+  ├─ ‣ ${prefix}spamcall
+  ├─ ‣ ${prefix}tebakgambar
+  ├─ ‣ ${prefix}babi
+  ├─ ‣ ${prefix}caklontong
+  ├─ ‣ ${prefix}katailham
+  ├─ ‣ ${prefix}katabijak
+  ├─ ‣ ${prefix}fakta
+  ├─ ‣ ${prefix}mimpi
+  ├─ ‣ ${prefix}husbu
+  ├─ ‣ ${prefix}imagemountain
+  ├─ ‣ ${prefix}loli
+  ├─ ‣ ${prefix}imagegame
+  ├─ ‣ ${prefix}imagecyberspace
+  ├─ ‣ ${prefix}imageislamic
+  ├─ ‣ ${prefix}blackpink
+  ├─ ‣ ${prefix}randomexo
+  ├─ ‣ ${prefix}randombts
+  └─ ‣ ${prefix}menuownerwaifu
 
 ◪ *MAKER*
   │
-  ├─ ❏ ${prefix}nulis
-  ├─ ❏ ${prefix}sticker
-  ├─ ❏ ${prefix}stickergif
-  ├─ ❏ ${prefix}toimg
-  ├─ ❏ ${prefix}hartatata
-  ├─ ❏ ${prefix}quotemaker
-  ├─ ❏ ${prefix}galaxtext
-  ├─ ❏ ${prefix}pupycut
-  ├─ ❏ ${prefix}galaxstyle
-  ├─ ❏ ${prefix}hologram
-  ├─ ❏ ${prefix}textbyname
-  ├─ ❏ ${prefix}herrypoter
-  ├─ ❏ ${prefix}greanneon
-  └─ ❏ ${prefix}metallogo
+  ├─ ‣ ${prefix}nulis
+  ├─ ‣ ${prefix}sticker
+  ├─ ‣ ${prefix}stickergif
+  ├─ ‣ ${prefix}toimg
+  ├─ ‣ ${prefix}hartatata
+  ├─ ‣ ${prefix}quotemaker
+  ├─ ‣ ${prefix}galaxtext
+  ├─ ‣ ${prefix}pupycut
+  ├─ ‣ ${prefix}galaxstyle
+  ├─ ‣ ${prefix}hologram
+  ├─ ‣ ${prefix}textbyname
+  ├─ ‣ ${prefix}herrypoter
+  ├─ ‣ ${prefix}greanneon
+  └─ ‣ ${prefix}metallogo
   
 ◪ *MEDIA*
   │
-  └─ ❏ ${prefix}tribunews
+  └─ ‣ ${prefix}tribunews
   
 ◪ *OTHER FITUR*
   │
-  ├─ ❏ ${prefix}ssweb
-  ├─ ❏ ${prefix}hilih
-  ├─ ❏ ${prefix}alay
-  ├─ ❏ ${prefix}say
-  ├─ ❏ ${prefix}wiki
-  ├─ ❏ ${prefix}kbbi
-  ├─ ❏ ${prefix}map
-  ├─ ❏ ${prefix}kalkulator
-  ├─ ❏ ${prefix}lirik
-  ├─ ❏ ${prefix}brainly
-  ├─ ❏ ${prefix}bitly
-  ├─ ❏ ${prefix}chord
-  ├─ ❏ ${prefix}katabijak 
-  ├─ ❏ ${prefix}faktaunik 
-  ├─ ❏ ${prefix}faktaunikl
-  ├─ ❏ ${prefix}holoh
-  ├─ ❏ ${prefix}halah
-  ├─ ❏ ${prefix}huluh
-  ├─ ❏ ${prefix}heleh
-  ├─ ❏ ${prefix}hurufterbalik
-  ├─ ❏ ${prefix}lirik
-  ├─ ❏ ${prefix}alay2
-  ├─ ❏ ${prefix}fml
-  ├─ ❏ ${prefix}katadilan
-  ├─ ❏ ${prefix}katabucin
-  ├─ ❏ ${prefix}katabucin2
-  ├─ ❏ ${prefix}cerpen
-  ├─ ❏ ${prefix}quotes
-  ├─ ❏ ${prefix}bacotanhacker
-  ├─ ❏ ${prefix}quotedoraemon
-  ├─ ❏ ${prefix}infofilm
-  ├─ ❏ ${prefix}igvideo
-  ├─ ❏ ${prefix}pantun
-  └─ ❏ ${prefix}artinama
+  ├─ ‣ ${prefix}ssweb
+  ├─ ‣ ${prefix}hilih
+  ├─ ‣ ${prefix}alay
+  ├─ ‣ ${prefix}say
+  ├─ ‣ ${prefix}wiki
+  ├─ ‣ ${prefix}kbbi
+  ├─ ‣ ${prefix}map
+  ├─ ‣ ${prefix}kalkulator
+  ├─ ‣ ${prefix}lirik
+  ├─ ‣ ${prefix}brainly
+  ├─ ‣ ${prefix}bitly
+  ├─ ‣ ${prefix}chord
+  ├─ ‣ ${prefix}katabijak 
+  ├─ ‣ ${prefix}faktaunik 
+  ├─ ‣ ${prefix}faktaunikl
+  ├─ ‣ ${prefix}holoh
+  ├─ ‣ ${prefix}halah
+  ├─ ‣ ${prefix}huluh
+  ├─ ‣ ${prefix}heleh
+  ├─ ‣ ${prefix}hurufterbalik
+  ├─ ‣ ${prefix}lirik
+  ├─ ‣ ${prefix}alay2
+  ├─ ‣ ${prefix}fml
+  ├─ ‣ ${prefix}katadilan
+  ├─ ‣ ${prefix}katabucin
+  ├─ ‣ ${prefix}katabucin2
+  ├─ ‣ ${prefix}cerpen
+  ├─ ‣ ${prefix}quotes
+  ├─ ‣ ${prefix}bacotanhacker
+  ├─ ‣ ${prefix}quotedoraemon
+  ├─ ‣ ${prefix}infofilm
+  ├─ ‣ ${prefix}igvideo
+  ├─ ‣ ${prefix}pantun
+  └─ ‣ ${prefix}artinama
   
 ◪ *MAGIC SHELL*
   │
@@ -368,74 +368,74 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 
 ◪ *STALK*
   │
-  ├─ ❏ ${prefix}tiktokstalk
-  └─ ❏ ${prefix}igstalk
+  ├─ ‣ ${prefix}tiktokstalk
+  └─ ‣ ${prefix}igstalk
   
 ◪ *WIBU*
   │
-  ├─ ❏ ${prefix}neonime
-  └─ ❏ ${prefix}wait
+  ├─ ‣ ${prefix}neonime
+  └─ ‣ ${prefix}wait
   
 ◪ *APK*
-  ├─ ❏ ${prefix}apkpure
-  ├─ ❏ ${prefix}happymod
-  ├─ ❏ ${prefix}moddroid
+  ├─ ‣ ${prefix}apkpure
+  ├─ ‣ ${prefix}happymod
+  ├─ ‣ ${prefix}moddroid
   
 ◪ *18+ Nsfw*
   |
-  ├─ ❏ ${prefix}blowjob
-  ├─ ❏ ${prefix}randomhentai
-  ├─ ❏ ${prefix}sfw
-  ├─ ❏ ${prefix}nsfw
-  ├─ ❏ ${prefix}randomsfw
-  ├─ ❏ ${prefix}randomnsfw
-  └─ ❏ ${prefix}nsfwneko
+  ├─ ‣ ${prefix}blowjob
+  ├─ ‣ ${prefix}randomhentai
+  ├─ ‣ ${prefix}sfw
+  ├─ ‣ ${prefix}nsfw
+  ├─ ‣ ${prefix}randomsfw
+  ├─ ‣ ${prefix}randomnsfw
+  └─ ‣ ${prefix}nsfwneko
   
 ◪ *FUN*
   │
-  ├─ ❏ ${prefix}truth
-  ├─ ❏ ${prefix}dare
-  ├─ ❏ ${prefix}slap
-  ├─ ❏ ${prefix}tampar
-  ├─ ❏ ${prefix}nangis
-  ├─ ❏ ${prefix}cium
-  └─ ❏ ${prefix}simi
+  ├─ ‣ ${prefix}truth
+  ├─ ‣ ${prefix}dare
+  ├─ ‣ ${prefix}slap
+  ├─ ‣ ${prefix}tampar
+  ├─ ‣ ${prefix}nangis
+  ├─ ‣ ${prefix}cium
+  └─ ‣ ${prefix}simi
   
 ◪ *INFORMATION*
   │
-  ├─ ❏ ${prefix}bahasa
-  ├─ ❏ ${prefix}kodenegara
-  ├─ ❏ ${prefix}infogempa
-  ├─ ❏ ${prefix}infocuaca
-  ├─ ❏ ${prefix}infonomor
-  ├─ ❏ ${prefix}covidindo
-  ├─ ❏ ${prefix}covidglobal
-  ├─ ❏ ${prefix}ceknamaff
-  ├─ ❏ ${prefix}namaninja
-  ├─ ❏ ${prefix}newsinfo
-  └─ ❏ ${prefix}ceknamaml
+  ├─ ‣ ${prefix}bahasa
+  ├─ ‣ ${prefix}kodenegara
+  ├─ ‣ ${prefix}infogempa
+  ├─ ‣ ${prefix}infocuaca
+  ├─ ‣ ${prefix}infonomor
+  ├─ ‣ ${prefix}covidindo
+  ├─ ‣ ${prefix}covidglobal
+  ├─ ‣ ${prefix}ceknamaff
+  ├─ ‣ ${prefix}namaninja
+  ├─ ‣ ${prefix}newsinfo
+  └─ ‣ ${prefix}ceknamaml
   
 ◪ *OWNER*
   │
-  ├─ ❏ ${prefix}setprefix
-  ├─ ❏ ${prefix}setreply
-  ├─ ❏ ${prefix}setppbot
-  ├─ ❏ ${prefix}block
-  ├─ ❏ ${prefix}unblock
-  ├─ ❏ ${prefix}setprefix
-  ├─ ❏ ${prefix}leave
-  ├─ ❏ ${prefix}kickall
-  ├─ ❏ ${prefix}event [1/0]
-  ├─ ❏ ${prefix}bc
-  ├─ ❏ ${prefix}bcgc
-  ├─ ❏ ${prefix}clone
-  └─ ❏ ${prefix}clearall
+  ├─ ‣ ${prefix}setprefix
+  ├─ ‣ ${prefix}setreply
+  ├─ ‣ ${prefix}setppbot
+  ├─ ‣ ${prefix}block
+  ├─ ‣ ${prefix}unblock
+  ├─ ‣ ${prefix}setprefix
+  ├─ ‣ ${prefix}leave
+  ├─ ‣ ${prefix}kickall
+  ├─ ‣ ${prefix}event [1/0]
+  ├─ ‣ ${prefix}bc
+  ├─ ‣ ${prefix}bcgc
+  ├─ ‣ ${prefix}clone
+  └─ ‣ ${prefix}clearall
   
 ◪ *OTHER*
   │
-  ├─ ❏ ${prefix}wame
-  ├─ ❏ ${prefix}qrcode
-  └─ ❏ ${prefix}afk
+  ├─ ‣ ${prefix}wame
+  ├─ ‣ ${prefix}qrcode
+  └─ ‣ ${prefix}afk
   
 ◪ *POWERED BY WHITE WALKER*
 `
