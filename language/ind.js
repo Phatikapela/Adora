@@ -249,111 +249,111 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
   
 ➥ *【 DOWNLOADER 】*
   │
-  ├─ ‣ ${prefix}1cak
-  ├─ ‣ ${prefix}pinterest
-  ├─ ‣ ${prefix}ytmp3
-  ├─ ‣ ${prefix}ytmp4
-  ├─ ‣ ${prefix}play
-  ├─ ‣ ${prefix}fototiktok
-  ├─ ‣ ${prefix}igpost
-  ├─ ‣ ${prefix}igtv
+  ├» ‣ ${prefix}1cak
+  ├» ‣ ${prefix}pinterest
+  ├» ‣ ${prefix}ytmp3
+  ├» ‣ ${prefix}ytmp4
+  ├» ‣ ${prefix}play
+  ├» ‣ ${prefix}fototiktok
+  ├» ‣ ${prefix}igpost
+  ├» ‣ ${prefix}igtv
   └─ ‣ ${prefix}joox
   
 ➥ *【 FIND TARGET 】*
   │
-  ├─ ‣ ${prefix}mutual
+  ├» ‣ ${prefix}mutual
   └─ ‣ ${prefix}next
   
 ➥ *【 RANDOM PICTUE 】*
   │➛ *《 ANIME 》*
-  ├─ ‣ ${prefix}loli
-  ├─ ‣ ${prefix}neko
-  ├─ ‣ ${prefix}waifu
-  ├─ ‣ ${prefix}animecry
-  ├─ ‣ ${prefix}animehug
-  ├─ ‣ ${prefix}osakana
-  ├─ ‣ ${prefix}naruto
-  ├─ ‣ ${prefix}anime
-  ├─ ‣ ${prefix}husbu
-  ├─ ‣ ${prefix}animegirl
-  ├─ ‣ ${prefix}animeboy
+  ├» ‣ ${prefix}loli
+  ├» ‣ ${prefix}neko
+  ├» ‣ ${prefix}waifu
+  ├» ‣ ${prefix}animecry
+  ├» ‣ ${prefix}animehug
+  ├» ‣ ${prefix}osakana
+  ├» ‣ ${prefix}naruto
+  ├» ‣ ${prefix}anime
+  ├» ‣ ${prefix}husbu
+  ├» ‣ ${prefix}animegirl
+  ├» ‣ ${prefix}animeboy
   ├─ ‣ ${prefix}nekonime
   │
   │➛ *《 RANDOM KPOP 》*
-  ├─ ‣ ${prefix}randomkpop
-  ├─ ‣ ${prefix}randombts
-  ├─ ‣ ${prefix}randomexo
+  ├» ‣ ${prefix}randomkpop
+  ├» ‣ ${prefix}randombts
+  ├» ‣ ${prefix}randomexo
   ├─ ‣ ${prefix}blackpink
   │
   │➛ *《 CARTOON 》*
-  ├─ ‣ ${prefix}doraemon
+  ├» ‣ ${prefix}doraemon
   ├─ ‣ ${prefix}pokemon
   │
   │➛ *《 ANIMAL 》*
-  ├─ ‣ ${prefix}anjing
-  ├─ ‣ ${prefix}kucing
-  ├─ ‣ ${prefix}hamster
+  ├» ‣ ${prefix}anjing
+  ├» ‣ ${prefix}kucing
+  ├» ‣ ${prefix}hamster
   ├─ ‣ ${prefix}kelinci
   │
   │➛ *《 TRANSPORT 》*
-  ├─ ‣ ${prefix}mobil
-  ├─ ‣ ${prefix}motor
+  ├» ‣ ${prefix}mobil
+  ├» ‣ ${prefix}motor
   ├─ ‣ ${prefix}sepeda
   │
   │➛ *《 AESTHETIC 》*
-  ├─ ‣ ${prefix}aesthetic
-  ├─ ‣ ${prefix}bluesky
-  ├─ ‣ ${prefix}flower
-  ├─ ‣ ${prefix}icecream
+  ├» ‣ ${prefix}aesthetic
+  ├» ‣ ${prefix}bluesky
+  ├» ‣ ${prefix}flower
+  ├» ‣ ${prefix}icecream
   ├─ ‣ ${prefix}pemandangan
   │
   │➛ *《 QUOTES 》*
-  ├─ ‣ ${prefix}quotes
-  ├─ ‣ ${prefix}quoteskehidupan
-  ├─ ‣ ${prefix}quotesislami
-  ├─ ‣ ${prefix}katabijak
-  ├─ ‣ ${prefix}katailham
-  ├─ ‣ ${prefix}quotesnasehat
+  ├» ‣ ${prefix}quotes
+  ├» ‣ ${prefix}quoteskehidupan
+  ├» ‣ ${prefix}quotesislami
+  ├» ‣ ${prefix}katabijak
+  ├» ‣ ${prefix}katailham
+  ├» ‣ ${prefix}quotesnasehat
   └─ ‣ ${prefix}quotesmotivasi
   
 
 ➥ *【 LIMIT & MONEY & LB 】*
   │
-  ├─ ‣ ${prefix}limit
-  ├─ ‣ ${prefix}buylimit
-  ├─ ‣ ${prefix}buypremiumlimit
-  ├─ ‣ ${prefix}transfer
+  ├» ‣ ${prefix}limit
+  ├» ‣ ${prefix}buylimit
+  ├» ‣ ${prefix}buypremiumlimit
+  ├» ‣ ${prefix}transfer
   └─ ‣ ${prefix}leaderboard
   
 ➥ *【 GROUP 】*
   │
-  ├─ ‣ ${prefix}promote [@tag]
-  ├─ ‣ ${prefix}demote [@tag]
-  ├─ ‣ ${prefix}tagall
-  ├─ ‣ ${prefix}listadmin
-  ├─ ‣ ${prefix}wakillist
-  ├─ ‣ ${prefix}premiumlist
-  ├─ ‣ ${prefix}banlist
-  ├─ ‣ ${prefix}blocklist
-  ├─ ‣ ${prefix}linkgc
-  ├─ ‣ ${prefix}mining
-  ├─ ‣ ${prefix}hidetag
-  ├─ ‣ ${prefix}grouplist
-  ├─ ‣ ${prefix}add
-  ├─ ‣ ${prefix}kick [@tag]
-  ├─ ‣ ${prefix}setname
-  ├─ ‣ ${prefix}setdesc
-  ├─ ‣ ${prefix}setpp
-  ├─ ‣ ${prefix}listadmin
-  ├─ ‣ ${prefix}linkgc
-  ├─ ‣ ${prefix}leave
-  ├─ ‣ ${prefix}mining
-  ├─ ‣ ${prefix}level
-  ├─ ‣ ${prefix}grup [close/open)
-  ├─ ‣ ${prefix}welcome [1/0]
-  ├─ ‣ ${prefix}nsfw [1/0]
-  ├─ ‣ ${prefix}antilink [1/0]
-  ├─ ‣ ${prefix}leveling [1/0]
+  ├» ‣ ${prefix}promote [@tag]
+  ├» ‣ ${prefix}demote [@tag]
+  ├» ‣ ${prefix}tagall
+  ├» ‣ ${prefix}listadmin
+  ├» ‣ ${prefix}wakillist
+  ├» ‣ ${prefix}premiumlist
+  ├» ‣ ${prefix}banlist
+  ├» ‣ ${prefix}blocklist
+  ├» ‣ ${prefix}linkgc
+  ├» ‣ ${prefix}mining
+  ├» ‣ ${prefix}hidetag
+  ├» ‣ ${prefix}grouplist
+  ├» ‣ ${prefix}add
+  ├» ‣ ${prefix}kick [@tag]
+  ├» ‣ ${prefix}setname
+  ├» ‣ ${prefix}setdesc
+  ├» ‣ ${prefix}setpp
+  ├» ‣ ${prefix}listadmin
+  ├» ‣ ${prefix}linkgc
+  ├» ‣ ${prefix}leave
+  ├» ‣ ${prefix}mining
+  ├» ‣ ${prefix}level
+  ├» ‣ ${prefix}grup [close/open)
+  ├» ‣ ${prefix}welcome [1/0]
+  ├» ‣ ${prefix}nsfw [1/0]
+  ├» ‣ ${prefix}antilink [1/0]
+  ├» ‣ ${prefix}leveling [1/0]
   └─ ‣ ${prefix}simih [1/0]
   
 ➥ *【 SOUND 】*
