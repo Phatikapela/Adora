@@ -358,83 +358,83 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
   
 ➥ *【 SOUND 】*
   │
-  ├─ ‣ ${prefix}hai
-  ├─ ‣ ${prefix}hallo [only computer]
-  ├─ ‣ ${prefix}aine
-  ├─ ‣ ${prefix}soundplaydate [only computer]
-  ├─ ‣ ${prefix}soundbakahentai [only computer]
-  ├─ ‣ ${prefix}sayonichan [only computer]
+  ├» ‣ ${prefix}hai
+  ├» ‣ ${prefix}hallo [only computer]
+  ├» ‣ ${prefix}aine
+  ├» ‣ ${prefix}soundplaydate [only computer]
+  ├» ‣ ${prefix}soundbakahentai [only computer]
+  ├» ‣ ${prefix}sayonichan [only computer]
   └─ ‣ ${prefix}gtts
 
 ➥ *【 STALK 】*
   │
-  ├─ ‣ ${prefix}tiktokstalk
+  ├» ‣ ${prefix}tiktokstalk
   └─ ‣ ${prefix}igstalk
   
 ➥ *【 WIBU 】*
   │
-  ├─ ‣ ${prefix}neonime
+  ├» ‣ ${prefix}neonime
   └─ ‣ ${prefix}wait
   
 ➥ *【 APK 】*
-  ├─ ‣ ${prefix}apkpure
-  ├─ ‣ ${prefix}happymod
+  ├» ‣ ${prefix}apkpure
+  ├» ‣ ${prefix}happymod
   ├─ ‣ ${prefix}moddroid
   
 ➥ *【 18+ Nsfw* 】
   |
-  ├─ ‣ ${prefix}blowjob
-  ├─ ‣ ${prefix}randomhentai
-  ├─ ‣ ${prefix}sfw
-  ├─ ‣ ${prefix}nsfw
-  ├─ ‣ ${prefix}randomsfw
-  ├─ ‣ ${prefix}randomnsfw
+  ├» ‣ ${prefix}blowjob
+  ├» ‣ ${prefix}randomhentai
+  ├» ‣ ${prefix}sfw
+  ├» ‣ ${prefix}nsfw
+  ├» ‣ ${prefix}randomsfw
+  ├» ‣ ${prefix}randomnsfw
   └─ ‣ ${prefix}nsfwneko
   
 ➥ *【 FUN 】*
   │
-  ├─ ‣ ${prefix}truth
-  ├─ ‣ ${prefix}dare
-  ├─ ‣ ${prefix}slap
-  ├─ ‣ ${prefix}tampar
-  ├─ ‣ ${prefix}nangis
-  ├─ ‣ ${prefix}cium
+  ├» ‣ ${prefix}truth
+  ├» ‣ ${prefix}dare
+  ├» ‣ ${prefix}slap
+  ├» ‣ ${prefix}tampar
+  ├» ‣ ${prefix}nangis
+  ├» ‣ ${prefix}cium
   └─ ‣ ${prefix}simi
   
 ➥ *【 INFORMATION 】*
   │
-  ├─ ‣ ${prefix}bahasa
-  ├─ ‣ ${prefix}kodenegara
-  ├─ ‣ ${prefix}infogempa
-  ├─ ‣ ${prefix}infocuaca
-  ├─ ‣ ${prefix}infonomor
-  ├─ ‣ ${prefix}covidindo
-  ├─ ‣ ${prefix}covidglobal
-  ├─ ‣ ${prefix}ceknamaff
-  ├─ ‣ ${prefix}namaninja
-  ├─ ‣ ${prefix}newsinfo
+  ├» ‣ ${prefix}bahasa
+  ├» ‣ ${prefix}kodenegara
+  ├» ‣ ${prefix}infogempa
+  ├» ‣ ${prefix}infocuaca
+  ├» ‣ ${prefix}infonomor
+  ├» ‣ ${prefix}covidindo
+  ├» ‣ ${prefix}covidglobal
+  ├» ‣ ${prefix}ceknamaff
+  ├» ‣ ${prefix}namaninja
+  ├» ‣ ${prefix}newsinfo
   └─ ‣ ${prefix}ceknamaml
   
 ➥ *【 OWNER 】*
   │
-  ├─ ‣ ${prefix}setprefix
-  ├─ ‣ ${prefix}setreply
-  ├─ ‣ ${prefix}setppbot
-  ├─ ‣ ${prefix}block
-  ├─ ‣ ${prefix}unblock
-  ├─ ‣ ${prefix}setprefix
-  ├─ ‣ ${prefix}leave
-  ├─ ‣ ${prefix}kickall
-  ├─ ‣ ${prefix}event [1/0]
-  ├─ ‣ ${prefix}bc
-  ├─ ‣ ${prefix}bcgc
-  ├─ ‣ ${prefix}clone
+  ├» ‣ ${prefix}setprefix
+  ├» ‣ ${prefix}setreply
+  ├» ‣ ${prefix}setppbot
+  ├» ‣ ${prefix}block
+  ├» ‣ ${prefix}unblock
+  ├» ‣ ${prefix}setprefix
+  ├» ‣ ${prefix}leave
+  ├» ‣ ${prefix}kickall
+  ├» ‣ ${prefix}event [1/0]
+  ├» ‣ ${prefix}bc
+  ├» ‣ ${prefix}bcgc
+  ├» ‣ ${prefix}clone
   └─ ‣ ${prefix}clearall
   
 ➥ *【 OTHER 】*
   │
-  ├─ ‣ ${prefix}wame
-  ├─ ‣ ${prefix}qrcode
+  ├» ‣ ${prefix}wame
+  ├» ‣ ${prefix}qrcode
   └─ ‣ ${prefix}afk
   
 ➥ *〔 POWERED BY WHITE WALKER 〕*
