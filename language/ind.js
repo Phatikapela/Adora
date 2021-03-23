@@ -123,94 +123,94 @@ exports.reglevelahf = (command, pushname, getLevelingLevel, sender, ahf) => {
 //If INFO DEVELOPER not in change, its okey!!
 exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp, _registered, uangku, role) => { 
 	return `「 *WHITE WALKER* 」
-◪ *INFO DEVELOPER*
-  ❏ NAME:   ɪͥᴛͭ'sᷤ ᴍͫᴇͤ ᴅͭᴇͦᴠͯɪͥʟͨ
-  ❏ WHATSAPP: wa.me/19163126173
+➥ *【 INFO DEVELOPER 】*
+  ➤‣ NAME:   ɪͥᴛͭ'sᷤ ᴍͫᴇͤ ᴅͭᴇͦᴠͯɪͥʟͨ
+  ➤‣ WHATSAPP: wa.me/19163126173
   ----------------------------------
 
-◪ *YOUR INFO*
-  ❏ Prefix: 「  *${prefix}*  」
-  ❏ Name: *${pushname}*
-  ❏ Your Money: *Rs${uangku}*
-  ❏ Number: *${sender.split("@")[0]}*
-  ❏ XP: *${getLevelingXp(sender)}/${reqXp}*
-  ❏ Level: *${getLevelingLevel(sender)}*
-  ❏ User register : *${_registered.length}*
+➥ *【 YOUR INFO 】*
+  ➤‣ Prefix: 「  *${prefix}*  」
+  ➤‣ Name: *${pushname}*
+  ➤‣ Your Money: *Rs${uangku}*
+  ➤‣ Number: *${sender.split("@")[0]}*
+  ➤‣ XP: *${getLevelingXp(sender)}/${reqXp}*
+  ➤‣ Level: *${getLevelingLevel(sender)}*
+  ➤‣ User register : *${_registered.length}*
   
-◪ *ABOUT*
+➥ *【 ABOUT 】*
   │
-  ├─ ‣ ${prefix}info
-  ├─ ‣ ${prefix}snk
-  ├─ ‣ ${prefix}lpr 
-  ├─ ‣ ${prefix}request
-  ├─ ‣ ${prefix}blocklist
-  ├─ ‣ ${prefix}ping
-  ├─ ‣ ${prefix}buypremium
-  ├─ ‣ ${prefix}hargaprem
-  ├─ ‣ ${prefix}menupict
+  ├» ‣ ${prefix}info
+  ├» ‣ ${prefix}snk
+  ├» ‣ ${prefix}lpr 
+  ├» ‣ ${prefix}request
+  ├» ‣ ${prefix}blocklist
+  ├» ‣ ${prefix}ping
+  ├» ‣ ${prefix}buypremium
+  ├» ‣ ${prefix}hargaprem
+  ├» ‣ ${prefix}menupict
   └─ ‣ ${prefix}menuowner
   
-◪ *NEW FEATURE*
+➥ *【 NEW FEATURE 】*
   │
-  ├─ ‣ ${prefix}nsfwloli
-  ├─ ‣ ${prefix}asupan
-  ├─ ‣ ${prefix}wiki
-  ├─ ‣ ${prefix}spamcall
-  ├─ ‣ ${prefix}tebakgambar
-  ├─ ‣ ${prefix}babi
-  ├─ ‣ ${prefix}caklontong
-  ├─ ‣ ${prefix}katailham
-  ├─ ‣ ${prefix}katabijak
-  ├─ ‣ ${prefix}fakta
-  ├─ ‣ ${prefix}mimpi
-  ├─ ‣ ${prefix}husbu
-  ├─ ‣ ${prefix}imagemountain
-  ├─ ‣ ${prefix}loli
-  ├─ ‣ ${prefix}imagegame
-  ├─ ‣ ${prefix}imagecyberspace
-  ├─ ‣ ${prefix}imageislamic
-  ├─ ‣ ${prefix}blackpink
-  ├─ ‣ ${prefix}randomexo
-  ├─ ‣ ${prefix}randombts
+  ├» ‣ ${prefix}nsfwloli
+  ├» ‣ ${prefix}asupan
+  ├» ‣ ${prefix}wiki
+  ├» ‣ ${prefix}spamcall
+  ├» ‣ ${prefix}tebakgambar
+  ├» ‣ ${prefix}babi
+  ├» ‣ ${prefix}caklontong
+  ├» ‣ ${prefix}katailham
+  ├» ‣ ${prefix}katabijak
+  ├» ‣ ${prefix}fakta
+  ├» ‣ ${prefix}mimpi
+  ├» ‣ ${prefix}husbu
+  ├» ‣ ${prefix}imagemountain
+  ├» ‣ ${prefix}loli
+  ├» ‣ ${prefix}imagegame
+  ├» ‣ ${prefix}imagecyberspace
+  ├» ‣ ${prefix}imageislamic
+  ├» ‣ ${prefix}blackpink
+  ├» ‣ ${prefix}randomexo
+  ├» ‣ ${prefix}randombts
   └─ ‣ ${prefix}menuownerwaifu
 
-◪ *MAKER*
+➥ *【 MAKER 】*
   │
-  ├─ ‣ ${prefix}nulis
-  ├─ ‣ ${prefix}sticker
-  ├─ ‣ ${prefix}stickergif
-  ├─ ‣ ${prefix}toimg
-  ├─ ‣ ${prefix}hartatata
-  ├─ ‣ ${prefix}quotemaker
-  ├─ ‣ ${prefix}galaxtext
-  ├─ ‣ ${prefix}pupycut
-  ├─ ‣ ${prefix}galaxstyle
-  ├─ ‣ ${prefix}hologram
-  ├─ ‣ ${prefix}textbyname
-  ├─ ‣ ${prefix}herrypoter
-  ├─ ‣ ${prefix}greanneon
+  ├» ‣ ${prefix}nulis
+  ├» ‣ ${prefix}sticker
+  ├» ‣ ${prefix}stickergif
+  ├» ‣ ${prefix}toimg
+  ├» ‣ ${prefix}hartatata
+  ├» ‣ ${prefix}quotemaker
+  ├» ‣ ${prefix}galaxtext
+  ├» ‣ ${prefix}pupycut
+  ├» ‣ ${prefix}galaxstyle
+  ├» ‣ ${prefix}hologram
+  ├» ‣ ${prefix}textbyname
+  ├» ‣ ${prefix}herrypoter
+  ├» ‣ ${prefix}greanneon
   └─ ‣ ${prefix}metallogo
   
-◪ *MEDIA*
+➥ *【 MEDIA 】*
   │
-  └─ ‣ ${prefix}tribunews
+  └─» ‣ ${prefix}tribunews
   
-◪ *OTHER FITUR*
+➥ *【 OTHER FITUR 】*
   │
-  ├─ ‣ ${prefix}ssweb
-  ├─ ‣ ${prefix}hilih
-  ├─ ‣ ${prefix}alay
-  ├─ ‣ ${prefix}say
-  ├─ ‣ ${prefix}wiki
-  ├─ ‣ ${prefix}kbbi
-  ├─ ‣ ${prefix}map
-  ├─ ‣ ${prefix}kalkulator
-  ├─ ‣ ${prefix}lirik
-  ├─ ‣ ${prefix}brainly
-  ├─ ‣ ${prefix}bitly
-  ├─ ‣ ${prefix}chord
-  ├─ ‣ ${prefix}katabijak 
-  ├─ ‣ ${prefix}faktaunik 
+  ├» ‣ ${prefix}ssweb
+  ├» ‣ ${prefix}hilih
+  ├» ‣ ${prefix}alay
+  ├» ‣ ${prefix}say
+  ├» ‣ ${prefix}wiki
+  ├» ‣ ${prefix}kbbi
+  ├» ‣ ${prefix}map
+  ├» ‣ ${prefix}kalkulator
+  ├» ‣ ${prefix}lirik
+  ├» ‣ ${prefix}brainly
+  ├» ‣ ${prefix}bitly
+  ├» ‣ ${prefix}chord
+  ├» ‣ ${prefix}katabijak 
+  ├» ‣ ${prefix}faktaunik 
   ├─ ‣ ${prefix}faktaunikl
   ├─ ‣ ${prefix}holoh
   ├─ ‣ ${prefix}halah
@@ -232,156 +232,156 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
   ├─ ‣ ${prefix}pantun
   └─ ‣ ${prefix}artinama
   
-◪ *MAGIC SHELL*
+➥ *【 MAGIC SHELL 】*
   │
-  ├─ ❏ ${prefix}gantengcek
-  ├─ ❏ ${prefix}cantikcek
-  ├─ ❏ ${prefix}sangecek
-  ├─ ❏ ${prefix}gaycek
-  ├─ ❏ ${prefix}lesbicek
-  ├─ ❏ ${prefix}watak
-  ├─ ❏ ${prefix}hobby
-  ├─ ❏ ${prefix}apakah
-  ├─ ❏ ${prefix}kapankah
-  ├─ ❏ ${prefix}bisakah
-  ├─ ❏ ${prefix}bagaimanakah
-  └─ ❏ ${prefix}rate
+  ├─ ‣ ${prefix}gantengcek
+  ├─ ‣ ${prefix}cantikcek
+  ├─ ‣ ${prefix}sangecek
+  ├─ ‣ ${prefix}gaycek
+  ├─ ‣ ${prefix}lesbicek
+  ├─ ‣ ${prefix}watak
+  ├─ ‣ ${prefix}hobby
+  ├─ ‣ ${prefix}apakah
+  ├─ ‣ ${prefix}kapankah
+  ├─ ‣ ${prefix}bisakah
+  ├─ ‣ ${prefix}bagaimanakah
+  └─ ‣ ${prefix}rate
   
-◪ *DOWNLOADER*
+➥ *【 DOWNLOADER 】*
   │
-  ├─ ❏ ${prefix}1cak
-  ├─ ❏ ${prefix}pinterest
-  ├─ ❏ ${prefix}ytmp3
-  ├─ ❏ ${prefix}ytmp4
-  ├─ ❏ ${prefix}play
-  ├─ ❏ ${prefix}fototiktok
-  ├─ ❏ ${prefix}igpost
-  ├─ ❏ ${prefix}igtv
-  └─ ❏ ${prefix}joox
+  ├─ ‣ ${prefix}1cak
+  ├─ ‣ ${prefix}pinterest
+  ├─ ‣ ${prefix}ytmp3
+  ├─ ‣ ${prefix}ytmp4
+  ├─ ‣ ${prefix}play
+  ├─ ‣ ${prefix}fototiktok
+  ├─ ‣ ${prefix}igpost
+  ├─ ‣ ${prefix}igtv
+  └─ ‣ ${prefix}joox
   
-◪ *FIND TARGET*
+➥ *【 FIND TARGET 】*
   │
-  ├─ ❏ ${prefix}mutual
-  └─ ❏ ${prefix}next
+  ├─ ‣ ${prefix}mutual
+  └─ ‣ ${prefix}next
   
-◪ *RANDOM PICTUE*
-  │ *ANIME*
-  ├─ ❏ ${prefix}loli
-  ├─ ❏ ${prefix}neko
-  ├─ ❏ ${prefix}waifu
-  ├─ ❏ ${prefix}animecry
-  ├─ ❏ ${prefix}animehug
-  ├─ ❏ ${prefix}osakana
-  ├─ ❏ ${prefix}naruto
-  ├─ ❏ ${prefix}anime
-  ├─ ❏ ${prefix}husbu
-  ├─ ❏ ${prefix}animegirl
-  ├─ ❏ ${prefix}animeboy
-  ├─ ❏ ${prefix}nekonime
+➥ *【 RANDOM PICTUE 】*
+  │➛ *《 ANIME 》*
+  ├─ ‣ ${prefix}loli
+  ├─ ‣ ${prefix}neko
+  ├─ ‣ ${prefix}waifu
+  ├─ ‣ ${prefix}animecry
+  ├─ ‣ ${prefix}animehug
+  ├─ ‣ ${prefix}osakana
+  ├─ ‣ ${prefix}naruto
+  ├─ ‣ ${prefix}anime
+  ├─ ‣ ${prefix}husbu
+  ├─ ‣ ${prefix}animegirl
+  ├─ ‣ ${prefix}animeboy
+  ├─ ‣ ${prefix}nekonime
   │
-  │ *RANDOM KPOP*
-  ├─ ❏ ${prefix}randomkpop
-  ├─ ❏ ${prefix}randombts
-  ├─ ❏ ${prefix}randomexo
-  ├─ ❏ ${prefix}blackpink
+  │➛ *《 RANDOM KPOP 》*
+  ├─ ‣ ${prefix}randomkpop
+  ├─ ‣ ${prefix}randombts
+  ├─ ‣ ${prefix}randomexo
+  ├─ ‣ ${prefix}blackpink
   │
-  │ *CARTOON*
-  ├─ ❏ ${prefix}doraemon
-  ├─ ❏ ${prefix}pokemon
+  │➛ *《 CARTOON 》*
+  ├─ ‣ ${prefix}doraemon
+  ├─ ‣ ${prefix}pokemon
   │
-  │ *ANIMAL*
-  ├─ ❏ ${prefix}anjing
-  ├─ ❏ ${prefix}kucing
-  ├─ ❏ ${prefix}hamster
-  ├─ ❏ ${prefix}kelinci
+  │➛ *《 ANIMAL 》*
+  ├─ ‣ ${prefix}anjing
+  ├─ ‣ ${prefix}kucing
+  ├─ ‣ ${prefix}hamster
+  ├─ ‣ ${prefix}kelinci
   │
-  │ *TRANSPORT*
-  ├─ ❏ ${prefix}mobil
-  ├─ ❏ ${prefix}motor
-  ├─ ❏ ${prefix}sepeda
+  │➛ *《 TRANSPORT 》*
+  ├─ ‣ ${prefix}mobil
+  ├─ ‣ ${prefix}motor
+  ├─ ‣ ${prefix}sepeda
   │
-  │ *AESTHETIC*
-  ├─ ❏ ${prefix}aesthetic
-  ├─ ❏ ${prefix}bluesky
-  ├─ ❏ ${prefix}flower
-  ├─ ❏ ${prefix}icecream
-  ├─ ❏ ${prefix}pemandangan
+  │➛ *《 AESTHETIC 》*
+  ├─ ‣ ${prefix}aesthetic
+  ├─ ‣ ${prefix}bluesky
+  ├─ ‣ ${prefix}flower
+  ├─ ‣ ${prefix}icecream
+  ├─ ‣ ${prefix}pemandangan
   │
-  │ *QUOTES*
-  ├─ ❏ ${prefix}quotes
-  ├─ ❏ ${prefix}quoteskehidupan
-  ├─ ❏ ${prefix}quotesislami
-  ├─ ❏ ${prefix}katabijak
-  ├─ ❏ ${prefix}katailham
-  ├─ ❏ ${prefix}quotesnasehat
-  └─ ❏ ${prefix}quotesmotivasi
+  │➛ *《 QUOTES 》*
+  ├─ ‣ ${prefix}quotes
+  ├─ ‣ ${prefix}quoteskehidupan
+  ├─ ‣ ${prefix}quotesislami
+  ├─ ‣ ${prefix}katabijak
+  ├─ ‣ ${prefix}katailham
+  ├─ ‣ ${prefix}quotesnasehat
+  └─ ‣ ${prefix}quotesmotivasi
   
 
-◪ *LIMIT & MONEY & LB*
+➥ *【 LIMIT & MONEY & LB 】*
   │
-  ├─ ❏ ${prefix}limit
-  ├─ ❏ ${prefix}buylimit
-  ├─ ❏ ${prefix}buypremiumlimit
-  ├─ ❏ ${prefix}transfer
-  └─ ❏ ${prefix}leaderboard
+  ├─ ‣ ${prefix}limit
+  ├─ ‣ ${prefix}buylimit
+  ├─ ‣ ${prefix}buypremiumlimit
+  ├─ ‣ ${prefix}transfer
+  └─ ‣ ${prefix}leaderboard
   
-◪ *GROUP*
+➥ *【 GROUP 】*
   │
-  ├─ ❏ ${prefix}promote [@tag]
-  ├─ ❏ ${prefix}demote [@tag]
-  ├─ ❏ ${prefix}tagall
-  ├─ ❏ ${prefix}listadmin
-  ├─ ❏ ${prefix}wakillist
-  ├─ ❏ ${prefix}premiumlist
-  ├─ ❏ ${prefix}banlist
-  ├─ ❏ ${prefix}blocklist
-  ├─ ❏ ${prefix}linkgc
-  ├─ ❏ ${prefix}mining
-  ├─ ❏ ${prefix}hidetag
-  ├─ ❏ ${prefix}grouplist
-  ├─ ❏ ${prefix}add
-  ├─ ❏ ${prefix}kick [@tag]
-  ├─ ❏ ${prefix}setname
-  ├─ ❏ ${prefix}setdesc
-  ├─ ❏ ${prefix}setpp
-  ├─ ❏ ${prefix}listadmin
-  ├─ ❏ ${prefix}linkgc
-  ├─ ❏ ${prefix}leave
-  ├─ ❏ ${prefix}mining
-  ├─ ❏ ${prefix}level
-  ├─ ❏ ${prefix}grup [close/open)
-  ├─ ❏ ${prefix}welcome [1/0]
-  ├─ ❏ ${prefix}nsfw [1/0]
-  ├─ ❏ ${prefix}antilink [1/0]
-  ├─ ❏ ${prefix}leveling [1/0]
-  └─ ❏ ${prefix}simih [1/0]
+  ├─ ‣ ${prefix}promote [@tag]
+  ├─ ‣ ${prefix}demote [@tag]
+  ├─ ‣ ${prefix}tagall
+  ├─ ‣ ${prefix}listadmin
+  ├─ ‣ ${prefix}wakillist
+  ├─ ‣ ${prefix}premiumlist
+  ├─ ‣ ${prefix}banlist
+  ├─ ‣ ${prefix}blocklist
+  ├─ ‣ ${prefix}linkgc
+  ├─ ‣ ${prefix}mining
+  ├─ ‣ ${prefix}hidetag
+  ├─ ‣ ${prefix}grouplist
+  ├─ ‣ ${prefix}add
+  ├─ ‣ ${prefix}kick [@tag]
+  ├─ ‣ ${prefix}setname
+  ├─ ‣ ${prefix}setdesc
+  ├─ ‣ ${prefix}setpp
+  ├─ ‣ ${prefix}listadmin
+  ├─ ‣ ${prefix}linkgc
+  ├─ ‣ ${prefix}leave
+  ├─ ‣ ${prefix}mining
+  ├─ ‣ ${prefix}level
+  ├─ ‣ ${prefix}grup [close/open)
+  ├─ ‣ ${prefix}welcome [1/0]
+  ├─ ‣ ${prefix}nsfw [1/0]
+  ├─ ‣ ${prefix}antilink [1/0]
+  ├─ ‣ ${prefix}leveling [1/0]
+  └─ ‣ ${prefix}simih [1/0]
   
-◪ *SOUND*
+➥ *【 SOUND 】*
   │
-  ├─ ❏ ${prefix}hai
-  ├─ ❏ ${prefix}hallo [only computer]
-  ├─ ❏ ${prefix}aine
-  ├─ ❏ ${prefix}soundplaydate [only computer]
-  ├─ ❏ ${prefix}soundbakahentai [only computer]
-  ├─ ❏ ${prefix}sayonichan [only computer]
-  └─ ❏ ${prefix}gtts
+  ├─ ‣ ${prefix}hai
+  ├─ ‣ ${prefix}hallo [only computer]
+  ├─ ‣ ${prefix}aine
+  ├─ ‣ ${prefix}soundplaydate [only computer]
+  ├─ ‣ ${prefix}soundbakahentai [only computer]
+  ├─ ‣ ${prefix}sayonichan [only computer]
+  └─ ‣ ${prefix}gtts
 
-◪ *STALK*
+➥ *【 STALK 】*
   │
   ├─ ‣ ${prefix}tiktokstalk
   └─ ‣ ${prefix}igstalk
   
-◪ *WIBU*
+➥ *【 WIBU 】*
   │
   ├─ ‣ ${prefix}neonime
   └─ ‣ ${prefix}wait
   
-◪ *APK*
+➥ *【 APK 】*
   ├─ ‣ ${prefix}apkpure
   ├─ ‣ ${prefix}happymod
   ├─ ‣ ${prefix}moddroid
   
-◪ *18+ Nsfw*
+➥ *【 18+ Nsfw* 】
   |
   ├─ ‣ ${prefix}blowjob
   ├─ ‣ ${prefix}randomhentai
@@ -391,7 +391,7 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
   ├─ ‣ ${prefix}randomnsfw
   └─ ‣ ${prefix}nsfwneko
   
-◪ *FUN*
+➥ *【 FUN 】*
   │
   ├─ ‣ ${prefix}truth
   ├─ ‣ ${prefix}dare
@@ -401,7 +401,7 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
   ├─ ‣ ${prefix}cium
   └─ ‣ ${prefix}simi
   
-◪ *INFORMATION*
+➥ *【 INFORMATION 】*
   │
   ├─ ‣ ${prefix}bahasa
   ├─ ‣ ${prefix}kodenegara
@@ -415,7 +415,7 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
   ├─ ‣ ${prefix}newsinfo
   └─ ‣ ${prefix}ceknamaml
   
-◪ *OWNER*
+➥ *【 OWNER 】*
   │
   ├─ ‣ ${prefix}setprefix
   ├─ ‣ ${prefix}setreply
@@ -431,25 +431,25 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
   ├─ ‣ ${prefix}clone
   └─ ‣ ${prefix}clearall
   
-◪ *OTHER*
+➥ *【 OTHER 】*
   │
   ├─ ‣ ${prefix}wame
   ├─ ‣ ${prefix}qrcode
   └─ ‣ ${prefix}afk
   
-◪ *POWERED BY WHITE WALKER*
+➥ *〔 POWERED BY WHITE WALKER 〕*
 `
 }
 
 exports.levelup = (pushname, sender, getLevelingXp,  getLevel, getLevelingLevel, role) => {
 	return`
 *「 SELAMAT 」*
-  ❏ Name : ${pushname}
-  ❏ Number : ${sender.split("@")[0]}
-  ❏ Xp : ${getLevelingXp(sender)}
-  ❏ Limit :  +3
-  ❏ Rank :  ${role}
-  ❏ Level : ${getLevel} ⊱ ${getLevelingLevel(sender)}
+  ➤‣ Name : ${pushname}
+  ➤‣ Number : ${sender.split("@")[0]}
+  ➤‣ Xp : ${getLevelingXp(sender)}
+  ➤‣ Limit :  +3
+  ➤‣ Rank :  ${role}
+  ➤‣ Level : ${getLevel} ⊱ ${getLevelingLevel(sender)}
 `}
  
 exports.limitend = (pushname) => {
@@ -469,5 +469,5 @@ exports.satukos = () => {
 }
 
 exports.uangkau = (pushname, sender, uangkau) => {
-	return`◪ *「 ATM 」*\n  ├─ ❏ *Name* : ${pushname}\n  ├─ ❏ *Number* : ${sender.split("@")[0]}\n  └─ ❏ *Money* : ${uangkau}
+	return`◪ *「 ATM 」*\n  ├─ ➤‣ *Name* : ${pushname}\n  ├─ ➤‣ *Number* : ${sender.split("@")[0]}\n  └─ ➤‣ *Money* : ${uangkau}
 `}
