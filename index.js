@@ -49,17 +49,17 @@ const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n' 
             + 'FN:Admin Shizuka BOT\n' 
             + 'ORG: Pengembang Shizuka BOT;\n' 
-            + 'TEL;type=CELL;type=VOICE;waid=6281281872699:+62 812-8187-2699\n' 
+            + 'TEL;type=CELL;type=VOICE;waid=919544707896:+91 95447 07896\n' 
             + 'END:VCARD'
-prefix = '$'
+prefix = '!'
 blocked = []   
 limitawal = 99999
 memberlimit = 0
-cr = '*SHIZUKA THIS IS ALREADY VERIFIED*'
+cr = '*𝐌𝐖𝐎𝐍𝐄 𝐍𝐎𝐊𝐊𝐄𝐍𝐃𝐀 𝐍𝐉𝐀𝐍 𝐕𝐄𝐑𝐈𝐅𝐈𝐄𝐃 𝐀𝐀𝐍𝐔 🤣*'
 
 /******** OWNER NUMBER**********/
-const ownerNumber = ["6281212594112@s.whatsapp.net"] 
-const pacarNumber = ["6281281872699@s.whatsapp.net"]
+const ownerNumber = ["919544707896@s.whatsapp.net"] 
+const pacarNumber = ["919544707896@s.whatsapp.net"]
 /************************************/
 
        
