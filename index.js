@@ -293,7 +293,7 @@ itsmeiky.on('group-participants-update', async (anu) => {
 				} catch {
 					ppimg = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
 				}
-				teks = `*Titip salam yah kak* @${num.split('@')[0]}\n*I will miss you* 🤭`
+				teks = `*HopeFully Quiet RIP, BRO* @${num.split('@')[0]}\n*THANKS FOR LEAVING* 🤭`
 				let buff = await getBuffer(ppimg)
 				itsmeiky.sendMessage(mdata.id, buff, MessageType.image, {caption: teks, contextInfo: {"mentionedJid": [num]}})
 			}
